@@ -1,7 +1,6 @@
 # Veritas: The Viral Misinformation Shield 🛡️
 
 ![Veritas Logo](logo.png)
-_(Note: If you have the logo image I generated earlier, save it as logo.png and change the link above to just logo.png)_
 
 ## 1. Problem Statement
 
