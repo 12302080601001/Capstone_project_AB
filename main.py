@@ -4,7 +4,7 @@ from google.genai import types
 
 # --- CONFIGURATION ---
 # PASTE YOUR API KEY HERE
-API_KEY = "AIzaSyABq-Dyp5-4l6o6ql5kT1kR34o1BmoNDNQ" 
+API_KEY = "" 
 
 client = genai.Client(api_key=API_KEY)
 MODEL_ID = "gemini-2.0-flash" # Fast and capable
